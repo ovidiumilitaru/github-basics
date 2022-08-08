@@ -1,1 +1,2 @@
 this is the image of the hotel
+update made in local laptop
