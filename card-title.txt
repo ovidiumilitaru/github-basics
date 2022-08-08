@@ -1,2 +1,3 @@
 here is the title of the hotel
 update made in local laptop
+update made in local hotel-image branch
